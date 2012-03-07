@@ -1,0 +1,3 @@
+Using the `moderncv` package for latex
+
+Generate a pdf by running `pdflatex cv.tex`
