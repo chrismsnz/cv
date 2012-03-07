@@ -1,3 +1,6 @@
 Using the `moderncv` package for latex
 
 Generate a pdf by running `pdflatex cv.tex`
+
+You may use this CV as a basis for creating your own LaTeX CV but please don't
+use my information without my permission.
