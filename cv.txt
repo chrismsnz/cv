@@ -1,0 +1,46 @@
+Christopher Smith
++64 21 447 834
+chris@nevermind.co.nz
+www.nevermind.co.nz
+
+26 year-old technology enthusiast and professional
+
+
+Experience
+==========
+2008--Present: Software Developer - Mighty Ape
+I am working on web applications and related software including frontend, administration and backend software. I'm also responsible for administration of the network and all component systems. I architected, implemented and maintain the current application environment and am responsible for it's every day stability and security.
+
+2006--2008: Support Engineer - Comverse Ltd.
+I was a Tier 3 support engineer for Comverse's messaging platform at Vodafone NZ. I handled severe issues escalated from Vodafone's support staff and day-to-day maintenance of the platform, including on-call periods.
+
+2005--2006: Junior Developer - Nothing but Net Ltd.
+My work here allowed me to grow my programming experience from what I had learned at University, the main programming language was Java. I administered their internal and external network infrastructure including web application deployment and other services such as mail. I also was sponsored to work for the NZ Open Source Society.
+
+2002-2006: IT Consultant - Manuka Primary School
+My work with Manuka Primary School involved developing solutions to their needs from low-cost components and network administration. In developing their Intranet system I gained knowledge of content and management, workflow and systems integration.
+
+
+Education
+=========
+2002--2006: Bachelor of Science, Computer Science - Massey University
+Papers include: Technical Writing, GUI Programming, Functional Programming, Computer Architecture, Enterprise Software Architecture
+
+2006: Bursary - Glenfield CollegeAuckland
+Also achieved: Higher School Certificate, Sixth Form Certificate and School Certificate
+
+
+Technical Experience
+====================
+Extremely Proficient With
+languages:    Python, PHP, SQL, BASH, Puppet, HTML, CSS
+technologies: GNU/Linux, Zend Framework, MySQL, Symfony  Silex, Vim, HTTP, Low-level Networking
+
+Have Experience With
+languages:    Java, C, Objective C, C++
+technologies: Nginx, Javascript, Django, Pyramid, Twisted, Solr, Servlets
+
+
+References
+==========
+References available upon request
